@@ -10,7 +10,7 @@ to derive insights and suggest strategies for better segmentation based on the p
 
 Key Questions and Project Criteria:
 -------------------------------------------------------------------------------------------------
-Stakeholders are considering a targeted marketing strategy and are most interested in the variety of customers in their database along with their purchasing behaviors. They want to target
+> Stakeholders are considering a targeted marketing strategy and are most interested in the variety of customers in their database along with their purchasing behaviors. They want to target
 different customers with applicable marketing campaigns to see whether they have an effect
 on the sale of their products.
 
@@ -38,8 +38,8 @@ product orders and popularity of the the poducts.
 Data Set:
 ---------------------------------------------------------------------------------------
 
-> "The Instacart Online Grocery Shopping Dataset 2017"
->  Accessed from https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis on 5/5/2023
+> "The Instacart Online Grocery Shopping Dataset 2017" Accessed on 5/5/2023
+>   https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis 
 
 <br>
 <br>
