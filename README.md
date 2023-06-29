@@ -1,4 +1,4 @@
-This project was conducted in Jupyter Notebooks using Python for the Career Foundry Data Analytics course Spring 2023
+This project was conducted in the Jupyter Notebook environment using Python for the Career Foundry Data Analytics course Spring 2023
 
 Introduction:
 -------------------------------------------------------------------------------------------------
