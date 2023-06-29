@@ -1,3 +1,5 @@
+This project was conducted in Jupyter Notebooks using Python for the Career Foundry Data Analytics course Spring 2023
+
 Introduction:
 -------------------------------------------------------------------------------------------------
 > Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. This project was designed to perform an initial data and exploratory analysis of some of their data in order
